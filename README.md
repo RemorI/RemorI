@@ -1,15 +1,14 @@
 <div align="center">
 <img src="https://github.com/RemorI/Profile/blob/main/supply/The-vampire-librarian%40Emilycottonbird.jpg" width="35%" align="right" />
-<h3>Data Engineer with over 2 years of experience</h3>
+<h3>Data Engineer with over 5 years of experience</h3>
 <pre>
     <b>Languages:</b> Python, PySpark, SQL
-    <b>Databases:</b> MySQL, Apache Cassandra, MongoDB, DynamoDB
-    <b>Framework:</b> Apache Spark, Apache Airflow, Apache Kafka, Zookeeper
-    <b>Cloud:</b> Snowflake, S3, Lambda
-    <b>CI/CD:</b> Jenkins
+    <b>Big Data:</b> Azure Databricks, AWS EMR
+    <b>Datalake:</b> AWS S3, Azure Blob Storage, Azure DLS2
+    <b>Data Warehouse:</b> AWS Redshift, Azure Synapse, Snowflake
+    <b>Apache:</b> Apache Spark, Apache Airflow, Apache Kafka
+    <b>CI/CD:</b> Jenkins, Git
     <b>IaC Tools:</b> Docker, Kubernetes, Terraform
-    <b>Visualization:</b> Tableau, Power BI
-    <b>Web:</b> HTML, CSS, APIs
 </pre>
 <img src="https://github.com/RemorI/Profile/blob/main/supply/working-bees.png" height="100" />
 <br><br>
